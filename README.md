@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Le Duy Hoang Dung</h1>
 <h3 align="center">A frontend developer from Vietnam</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hdung7903&label=Profile%20views&color=0e75b6&style=flat" alt="hdung7903" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hdung7903" alt="hdung7903" /></a> </p>
 
-- 🌱 I’m currently learning at **FPT University**
+- 🌱 I’m currently learning **FPT University**
 
 - 📫 How to reach me **leduyhoangdung6i@gmail.com**
 
