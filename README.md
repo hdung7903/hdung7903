@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Le Duy Hoang Dung</h1>
 <h3 align="center">A frontend developer from Vietnam</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **FPT University**
 
 - 📫 How to reach me **leduyhoangdung6i@gmail.com**
 
