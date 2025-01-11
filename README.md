@@ -12,6 +12,9 @@ Collaborate with me at: leduyhoangdung6i@gmail.com<br>I'm currently studying Sof
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hdung7903&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hdung7903&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 💖 Donate for Me:
+If you'd like to support my work, feel free to donate!  
+![QR Code Placeholder]([](https://img.vietqr.io/image/VCB-1014937124-compact.png)) 
 ---
 [![](https://visitcount.itsvg.in/api?id=hdung7903&icon=0&color=0)](https://visitcount.itsvg.in)
 
