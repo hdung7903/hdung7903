@@ -14,7 +14,7 @@ Collaborate with me at: leduyhoangdung6i@gmail.com<br>I'm currently studying Sof
 
 ## 💖 Donate for Me:
 If you'd like to support my work, feel free to donate!  
-![](https://img.vietqr.io/image/VCB-1014937124-compact.png)
+![](https://img.vietqr.io/image/VCB-1014937124-compact.png](https://img.vietqr.io/image/VCB-1014937124-compact.png?amount=5000)
 ---
 [![](https://visitcount.itsvg.in/api?id=hdung7903&icon=0&color=0)](https://visitcount.itsvg.in)
 
