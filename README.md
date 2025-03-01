@@ -1,5 +1,5 @@
 # 💫 About Me:
-Collaborate with me at: leduyhoangdung6i@gmail.com<br>I'm currently studying Software Engineer at FPT University<br>Ask me about: C, Java, Javascript, TypeScript<br>
+Collaborate with me at: me@hdung7903.me<br>I'm currently studying Software Engineer at FPT University<br>Ask me about: C, Java, Javascript, TypeScript<br>
 
 
 ## 🌐 Socials:
