@@ -6,8 +6,8 @@
 *Fresher seeking full-time opportunities in Frontend / Fullstack development*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hdung7903)
-[![Email](https://img.shields.io/badge/Email-me%40hdung7903.me-EA4335?logo=gmail&logoColor=white)](mailto:leduyhoangdung6i@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-tramhoc.fpt.edu.vn-4CAF50?logo=vercel&logoColor=white)](https://hdung7903.id.vn)
+[![Email](https://img.shields.io/badge/Email-leduyhoangdung6i%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:leduyhoangdung6i@gmail.com)
+[![Portfolio](https://img.shields.io/badge/hdung7903.id.vn-4CAF50?logo=vercel&logoColor=white)](https://hdung7903.id.vn)
 
 </div>
 
